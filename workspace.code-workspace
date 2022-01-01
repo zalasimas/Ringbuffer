@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"ring_buffer.h": "c",
+			"string.h": "c"
+		}
+	}
+}
